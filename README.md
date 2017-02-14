@@ -2,8 +2,9 @@
 Card pegs for personal memory technique
 
 See more information on these pages:
-[Mnemonic Major System](https://en.wikipedia.org/wiki/Mnemonic_major_system)
-[Art of Memory - Card Memorization Techniques](http://mt.artofmemory.com/wiki/Card_Memorization_Techniques)
+
+* [Mnemonic Major System](https://en.wikipedia.org/wiki/Mnemonic_major_system)
+* [Art of Memory - Card Memorization Techniques](http://mt.artofmemory.com/wiki/Card_Memorization_Techniques)
 
 ## Spades
 
@@ -69,8 +70,41 @@ See more information on these pages:
 12. Dream
 13. Drink
 
+## Locations
+
+### Bathroom
+1. Shower
+2. Sink
+3. Medicine cabinet
+4. Under the sink
+5. Bathroom door
+
+### My room
+6. On top of my bed
+7. Below my bed
+8. Closet right
+9. Closet left
+10. Door to my room
+
+### Locations to finish... (typing that is)
+* Kitchen
+* Main room
+* Mike's room
+* Jamison's room
+* The truck
+* Race around the park
+
+...
+
+* 42. Water at the Tempe Center for the Arts
+* 43. Fire at the Tempe Center for the Arts
+
+...
+
+* 52. What is in the case?
+
 ## TODO
 
-* Locations
+* Finish Locations
 * Example Story
 * Doodles
