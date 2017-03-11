@@ -6,7 +6,7 @@ See more information on these pages:
 * [Mnemonic Major System](https://en.wikipedia.org/wiki/Mnemonic_major_system)
 * [Art of Memory - Card Memorization Techniques](http://mt.artofmemory.com/wiki/Card_Memorization_Techniques)
 
-## Spades
+## Spades &spades;
 
 1. Suit
 2. Sun
@@ -22,7 +22,7 @@ See more information on these pages:
 12. Steam
 13. Sing
 
-## Clubs
+## Clubs &clubs;
 
 1. Cat
 2. Can
@@ -38,7 +38,7 @@ See more information on these pages:
 12. Cream
 13. King
 
-## Hearts
+## Hearts &hearts;
 
 1. Hat
 2. Hen
@@ -54,7 +54,7 @@ See more information on these pages:
 12. Queen
 13. Hinge (Red Metal)
 
-## Diamonds
+## Diamonds &diams;
 
 1. Date
 2. Dune
@@ -86,25 +86,69 @@ See more information on these pages:
 9. Closet left
 10. Door to my room
 
-### Locations to finish... (typing that is)
-* Kitchen
-* Main room
-* Mike's room
-* Jamison's room
-* The truck
-* Race around the park
+### Kitchen
 
-...
+11. Inside the fridge
+12. Stove with a big pot
+13. In the sink
+14. Open the dishwasher
+15. Leaving the kitchen
 
-* 42. Water at the Tempe Center for the Arts
-* 43. Fire at the Tempe Center for the Arts
+### Lobby
 
-...
+16. My computer screen
+17. Couch under paintng
+18. Corner unfolding coffee table
+19. Couch under the window
+20. The lobby concrete floor
 
-* 52. What is in the case?
+### M's room
+
+21. Mike's door
+22. Closet
+23. TV
+24. Computer
+25. Bed
+
+### J's Room
+
+26. Door
+27. Bed
+28. Coffee Table with mirrors
+29. Bathroom
+30. Secret spot
+
+### The truck
+
+31. Front seat
+32. Passenger seat
+33. Behind the driver
+34. Behind the passenger
+35. Truck bed
+
+### Race around Tempe Beach Park
+
+36. Start of race
+37. The orbs
+38. The juggling spot
+39. The stairs / statues
+40. The ticket booths
+
+41. The rock spiral
+42. Water at the Tempe Center for the Arts
+43. Fire at the Tempe Center for the Arts
+44. Bridge start
+45. Bridge middle
+
+46. Bridge end
+47. Running up to the car bridge
+48. Car bridge spot one
+49. Car bridge Spot two
+50. The sign
+51. Finishing the race
+52. What is in the case?
 
 ## TODO
 
-* Finish Locations
 * Example Story
 * Doodles
