@@ -134,11 +134,15 @@ See more information on these pages:
 39. The stairs / statues
 40. The ticket booths
 
+### Tempe Center for the Arts
+
 41. The rock spiral
 42. Water at the Tempe Center for the Arts
 43. Fire at the Tempe Center for the Arts
 44. Bridge start
 45. Bridge middle
+
+### The Home Stretch
 
 46. Bridge end
 47. Running up to the car bridge
@@ -152,3 +156,28 @@ See more information on these pages:
 
 * Example Story
 * Doodles
+
+### Example Story (in progress)
+
+In the bathroom...
+
+In my shower I took a `DOSE` of cough syrup that made me feel really funny,
+
+I left the shower to find my sink full of shimmering `DIAMONDS`,
+
+Above the diamonds, in the mirror cabinet was a jewel crusted `DRINK` glass. Fit for a king.
+
+Under the sink, the cabinet door fell off. Revealing a red `HINGE` that glows as if it were hot.
+
+I reach for the door handle to find that the knob has been replaced by an apple `CORE`.
+
+In my room...
+
+On top of my bed, one of my closet `DOOR`s is on top of my bed.
+
+I lift up my bed, removing the door, to find my `DATE` was sleeping in a bed under my bed!
+
+I look over to my open closet, on the right side a phonograph is playing sitting on the `DOCK` on the bay.
+
+** To be Continued when I am bored again. **
+
